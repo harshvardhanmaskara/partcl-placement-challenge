@@ -1,0 +1,10 @@
+Macro placement project
+Copyright 2026 Harshvardhan Maskara
+
+This repository is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It builds on the Partcl x Hudson River Trading Macro Placement Challenge 2026
+(https://github.com/partcleda/macro-place-challenge-2026, Copyright 2025 Partcl, Inc.,
+Apache 2.0, snapshot 996193c) and the TILOS MacroPlacement evaluator
+(external/MacroPlacement submodule). Upstream files retain their original copyright.
+Original work is in submissions/harshvardhanmaskara/, NOTES.md and experiments/.
